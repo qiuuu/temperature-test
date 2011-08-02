@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TemperatureConverter' target in the 'TemperatureConverter' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

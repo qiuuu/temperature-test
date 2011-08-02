@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 298}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* TemperatureConverterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1215, 557}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 505}";
+			sepNavWindowFrame = "{{12, 17}, {1274, 708}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* TemperatureConverterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 836}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 323}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* TemperatureConverter_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 298}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 171}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3D359D0D13E6BA5E0020091E /* TemperatureConverter */;
+		activeTarget = 8D1107260486CEB800E47090 /* TemperatureConverter */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* TemperatureConverter */,
+		);
+		codeSenseManager = 3D359D1D13E6BA7D0020091E /* Code sense */;
+		executables = (
+			3D359D0D13E6BA5E0020091E /* TemperatureConverter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					737,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					849,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					809,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333889598;
+			PBXWorkspaceStateSaveDate = 333889598;
+		};
+		perUserProjectItems = {
+			3D359D3813E6C03B0020091E /* PlistBookmark */ = 3D359D3813E6C03B0020091E /* PlistBookmark */;
+			3D359D5613E6C0C20020091E /* PBXTextBookmark */ = 3D359D5613E6C0C20020091E /* PBXTextBookmark */;
+			3D359D5713E6C0C20020091E /* PBXTextBookmark */ = 3D359D5713E6C0C20020091E /* PBXTextBookmark */;
+			3D359D5813E6C0C20020091E /* PBXTextBookmark */ = 3D359D5813E6C0C20020091E /* PBXTextBookmark */;
+			3D359D5913E6C0C20020091E /* PBXTextBookmark */ = 3D359D5913E6C0C20020091E /* PBXTextBookmark */;
+			3D359D5A13E6C0C20020091E /* PBXTextBookmark */ = 3D359D5A13E6C0C20020091E /* PBXTextBookmark */;
+			3D359D5B13E6C0C20020091E /* PBXTextBookmark */ = 3D359D5B13E6C0C20020091E /* PBXTextBookmark */;
+			3D359D6E13E6C0D90020091E /* XCBuildMessageTextBookmark */ = 3D359D6E13E6C0D90020091E /* XCBuildMessageTextBookmark */;
+			3D359D7C13E6C29C0020091E /* PBXTextBookmark */ = 3D359D7C13E6C29C0020091E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3D359D1C13E6BA7D0020091E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 298}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	3D359D0D13E6BA5E0020091E /* TemperatureConverter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TemperatureConverter;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3D359D1C13E6BA7D0020091E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3D359D1D13E6BA7D0020091E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3D359D1E13E6BA7E0020091E /* Converter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 437}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRange = "{80, 220}";
+		};
+	};
+	3D359D1F13E6BA7E0020091E /* Converter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 456}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{126, 231}";
+			sepNavWindowFrame = "{{6, 70}, {1274, 708}}";
+		};
+	};
+	3D359D3813E6C03B0020091E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TemperatureConverter-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverter-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	3D359D5613E6C0C20020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	3D359D5713E6C0C20020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	3D359D5813E6C0C20020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3D359D1E13E6BA7E0020091E /* Converter.h */;
+		name = "Converter.h: 12";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 80;
+	};
+	3D359D5913E6C0C20020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3D359D1F13E6BA7E0020091E /* Converter.m */;
+		name = "Converter.m: 15";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 126;
+	};
+	3D359D5A13E6C0C20020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* TemperatureConverter_Prefix.pch */;
+		name = "TemperatureConverter_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 171;
+		vrLoc = 0;
+	};
+	3D359D5B13E6C0C20020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* TemperatureConverterAppDelegate.h */;
+		name = "TemperatureConverterAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 66;
+	};
+	3D359D6E13E6C0D90020091E /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Compile /Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m";
+		fRef = 256AC3D90F4B6AC300CF3369 /* TemperatureConverterAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	3D359D7C13E6C29C0020091E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TemperatureConverterAppDelegate.m */;
+		name = "TemperatureConverterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 323;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* TemperatureConverter */ = {
+		activeExec = 0;
+		executables = (
+			3D359D0D13E6BA5E0020091E /* TemperatureConverter */,
+		);
+	};
+}

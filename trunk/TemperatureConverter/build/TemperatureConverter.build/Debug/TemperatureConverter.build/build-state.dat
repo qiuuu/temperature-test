@@ -1,0 +1,227 @@
+TTemperatureConverter
+v7
+r0
+t333889957.276144
+cCheck dependencies
+cProcessInfoPlistFile /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Info.plist TemperatureConverter-Info.plist
+cCopyStringsFile /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/DeepSea/Documents/TemperatureConverter/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch.gch TemperatureConverter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/main.o /Users/DeepSea/Documents/TemperatureConverter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverterAppDelegate.o /Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/Converter.o /Users/DeepSea/Documents/TemperatureConverter/Converter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/MacOS/TemperatureConverter normal x86_64
+cTouch /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E2E5BCE0000000000006560
+t1311661006
+s25952
+
+N/Users/DeepSea/Documents/TemperatureConverter/Converter.h
+c000000004E3688E50000000000000139
+t1312196837
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/DeepSea/Documents/TemperatureConverter/Converter.m
+c000000004E3688E7000000000000016D
+t1312196839
+s365
+i"Converter.h"
+
+N/Users/DeepSea/Documents/TemperatureConverter/English.lproj/InfoPlist.strings
+c000000004E3682DE000000000000002D
+t1312195294
+s45
+
+N/Users/DeepSea/Documents/TemperatureConverter/English.lproj/MainMenu.xib
+c000000004E368A160000000000038E41
+t1312197142
+s233025
+
+N/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.h
+c000000004E3689420000000000000201
+t1312196930
+s513
+i<Cocoa/Cocoa.h>
+i"Converter.h"
+
+N/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m
+c000000004E36894C0000000000000407
+t1312196940
+s1031
+i"TemperatureConverterAppDelegate.h"
+
+N/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverter_Prefix.pch
+c000000004E3682DE00000000000000AB
+t1312195294
+s171
+i<Cocoa/Cocoa.h>
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app
+t1312197157
+s102
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Info.plist
+t1312196755
+s1323
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/MacOS/TemperatureConverter
+t1312197157
+s16928
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/PkgInfo
+t1312196755
+s8
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1312196755
+s92
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj/MainMenu.nib
+t1312197156
+s30848
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/Converter.o
+t1312196850
+s9120
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverter.LinkFileList
+c000000004E36889300000000000001C7
+t1312196755
+s455
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverterAppDelegate.o
+t1312197157
+s26088
+
+N/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/main.o
+t1312196758
+s5008
+
+N/Users/DeepSea/Documents/TemperatureConverter/main.m
+c000000004E3682DE00000000000000FB
+t1312195294
+s251
+i<Cocoa/Cocoa.h>
+
+N/XCode3/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/XCode3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch.gch
+t1312196758
+s54294288
+
+NTemperatureConverter-Info.plist
+c000000004E3682DE00000000000003EA
+t1312195294
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333889956#333889956#0(0"0(0#1#0"4579657024#0"0#
+
+CCompileC build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/Converter.o /Users/DeepSea/Documents/TemperatureConverter/Converter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s333889650.283612
+e333889650.361381
+r1
+xCompileC
+xbuild/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/Converter.o
+x/Users/DeepSea/Documents/TemperatureConverter/Converter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/DeepSea/Documents/TemperatureConverter/Converter.m333889650#333889650#0(0"0(0#0#57"/Users/DeepSea/Documents/TemperatureConverter/Converter.m4496502416#1787"    cd /Users/DeepSea/Documents/TemperatureConverter    setenv LANG en_US.US-ASCII    /XCode3/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /XCode3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-generated-files.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-own-target-headers.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-all-target-headers.hmap -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-project-headers.hmap -F/Users/DeepSea/Documents/TemperatureConverter/build/Debug -I/Users/DeepSea/Documents/TemperatureConverter/build/Debug/include -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources/x86_64 -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources -include /var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch -c /Users/DeepSea/Documents/TemperatureConverter/Converter.m -o /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/Converter.o0#
+
+CCompileC build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverterAppDelegate.o /Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s333889956.945629
+e333889957.057821
+r1
+xCompileC
+xbuild/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverterAppDelegate.o
+x/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m333889956#333889957#0(0"0(0#0#79"/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m4579655312#1831"    cd /Users/DeepSea/Documents/TemperatureConverter    setenv LANG en_US.US-ASCII    /XCode3/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /XCode3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-generated-files.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-own-target-headers.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-all-target-headers.hmap -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-project-headers.hmap -F/Users/DeepSea/Documents/TemperatureConverter/build/Debug -I/Users/DeepSea/Documents/TemperatureConverter/build/Debug/include -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources/x86_64 -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources -include /var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch -c /Users/DeepSea/Documents/TemperatureConverter/TemperatureConverterAppDelegate.m -o /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverterAppDelegate.o0#
+
+CCompileC build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/main.o /Users/DeepSea/Documents/TemperatureConverter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s333889558.246572
+e333889558.347104
+r1
+xCompileC
+xbuild/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/main.o
+x/Users/DeepSea/Documents/TemperatureConverter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/DeepSea/Documents/TemperatureConverter/main.m333889558#333889558#0(0"0(0#0#52"/Users/DeepSea/Documents/TemperatureConverter/main.m4580728464#1777"    cd /Users/DeepSea/Documents/TemperatureConverter    setenv LANG en_US.US-ASCII    /XCode3/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /XCode3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-generated-files.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-own-target-headers.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-all-target-headers.hmap -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-project-headers.hmap -F/Users/DeepSea/Documents/TemperatureConverter/build/Debug -I/Users/DeepSea/Documents/TemperatureConverter/build/Debug/include -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources/x86_64 -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources -include /var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch -c /Users/DeepSea/Documents/TemperatureConverter/main.m -o /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/DeepSea/Documents/TemperatureConverter/English.lproj/MainMenu.xib
+s333889956.656464
+e333889956.945278
+r1
+xCompileXIB
+x/Users/DeepSea/Documents/TemperatureConverter/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib333889956#333889956#0(0"0(0#0#72"/Users/DeepSea/Documents/TemperatureConverter/English.lproj/MainMenu.xib4579655312#392"    cd /Users/DeepSea/Documents/TemperatureConverter    /XCode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj/MainMenu.nib /Users/DeepSea/Documents/TemperatureConverter/English.lproj/MainMenu.xib --sdk /XCode3/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s333889555.548347
+e333889555.695702
+r1
+xCopyStringsFile
+x/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings333889555#333889555#0(0"0(0#0#77"/Users/DeepSea/Documents/TemperatureConverter/English.lproj/InfoPlist.strings4580728464#389"    cd /Users/DeepSea/Documents/TemperatureConverter    setenv ICONV /usr/bin/iconv    /XCode3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Resources/English.lproj0#
+
+CLd /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/MacOS/TemperatureConverter normal x86_64
+s333889957.057895
+e333889957.273826
+r1
+xLd
+x/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/MacOS/TemperatureConverter
+xnormal
+xx86_64
+lSLF07#2@123"Link /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/MacOS/TemperatureConverter333889957#333889957#0(0"0(0#0#0"4579655312#636"    cd /Users/DeepSea/Documents/TemperatureConverter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /XCode3/usr/bin/gcc-4.2 -arch x86_64 -isysroot /XCode3/SDKs/MacOSX10.6.sdk -L/Users/DeepSea/Documents/TemperatureConverter/build/Debug -F/Users/DeepSea/Documents/TemperatureConverter/build/Debug -filelist /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/Objects-normal/x86_64/TemperatureConverter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/MacOS/TemperatureConverter0#
+
+CProcessInfoPlistFile /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Info.plist TemperatureConverter-Info.plist
+s333889555.542720
+e333889555.548276
+r1
+xProcessInfoPlistFile
+x/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Info.plist
+xTemperatureConverter-Info.plist
+lSLF07#2@39"Process TemperatureConverter-Info.plist333889555#333889555#0(0"0(0#0#77"/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverter-Info.plist17231620096#370"    cd /Users/DeepSea/Documents/TemperatureConverter    builtin-infoPlistUtility TemperatureConverter-Info.plist -genpkginfo /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch.gch TemperatureConverter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s333889555.853695
+e333889558.246464
+r1
+xProcessPCH
+x/var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch.gch
+xTemperatureConverter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile TemperatureConverter_Prefix.pch333889555#333889558#0(0"0(0#0#77"/Users/DeepSea/Documents/TemperatureConverter/TemperatureConverter_Prefix.pch4580728464#1663"    cd /Users/DeepSea/Documents/TemperatureConverter    setenv LANG en_US.US-ASCII    /XCode3/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /XCode3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-generated-files.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-own-target-headers.hmap -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-all-target-headers.hmap -iquote /Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/TemperatureConverter-project-headers.hmap -F/Users/DeepSea/Documents/TemperatureConverter/build/Debug -I/Users/DeepSea/Documents/TemperatureConverter/build/Debug/include -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources/x86_64 -I/Users/DeepSea/Documents/TemperatureConverter/build/TemperatureConverter.build/Debug/TemperatureConverter.build/DerivedSources -c /Users/DeepSea/Documents/TemperatureConverter/TemperatureConverter_Prefix.pch -o /var/folders/ck/772jwryn70nbny0zl02hl51w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureConverter_Prefix-ewjmovydqxbahjdynyyegpxapinf/TemperatureConverter_Prefix.pch.gch0#
+
+CTouch /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app
+s333889957.273896
+e333889957.276111
+r1
+xTouch
+x/Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app
+lSLF07#2@88"Touch /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app333889957#333889957#0(0"0(0#0#0"4579655312#158"    cd /Users/DeepSea/Documents/TemperatureConverter    /usr/bin/touch -c /Users/DeepSea/Documents/TemperatureConverter/build/Debug/TemperatureConverter.app0#
+
