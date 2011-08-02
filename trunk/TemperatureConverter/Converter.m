@@ -12,6 +12,7 @@
 @implementation Converter
 
 @synthesize originalTemp;
+@synthesize nextTemp;
 
 - (float)convertCToF {
 	return ( ( self.originalTemp * 1.8 ) + 32.0 );
