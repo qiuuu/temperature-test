@@ -8,6 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
+//hi there
 
 @interface Converter : NSObject {
 	
@@ -15,6 +16,7 @@
 }
 
 @property (readwrite ) float originalTemp;
+@property (readwrite ) float nextTemp;
 
 -(float)convertCToF;
 -(float)convertFToC;
